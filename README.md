@@ -1,4 +1,5 @@
-## Hello, i am called José Samuel and i'm currently graduating the college course 
+## Hello, i am called José Samuel !
+and i'm currently graduating the college course 
 of System Analysis and Development in the University UNICID (Univerisdade Cidade de Sáo Paulo)
 currently at second semester, and working on Pyhton || C/C++ || MySQL WorkBench projects and learning new stuff eeach day, feel free to follow me 
 and like my projects or ask me anything about them. 
