@@ -4,8 +4,10 @@ of System Analysis and Development in the University UNICID (Univerisdade Cidade
 currently at second semester, and working on Pyhton || C/C++ || MySQL WorkBench projects and learning new stuff eeach day, feel free to follow me 
 and like my projects or ask me anything about them. 
 
-Currently i speak Brazillian Portuguese which is my main language, as well as English language, which is my second Language
+Currently i speak Brazillian Portuguese which is my main language, as well as English language, which is my second language, 
 i have a little of knowledge about Spanish and Italian, but not as much to speak it decently.
+
+
 
 
 
