@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, i am called José Samuel and i'm currently graduating the college course 
+of System Analysis and Development in the University UNICID (Univerisdade Cidade de Sáo Paulo)
+currently at second semester, and working on Pyhton || C/C++ || MySQL WorkBench projects and learning new stuff eeach day, feel free to follow me 
+and like my projects or ask me anything about them. 
+
+Currently i speak Brazillian Portuguese which is my main language, as well as English language, which is my second Language
+i have a little of knowledge about Spanish and Italian, but not as much to speak it decently.
+
+
 
 <!--
 **josesamuelaraujoleal2007-spec/josesamuelaraujoleal2007-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
